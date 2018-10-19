@@ -22,7 +22,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>luckysnap</id>
-			<url>http://localhost:8081/nexus/content/repositories/luckysnap/</url>
+			<url>http://localhost:8081/nexus/content/repositories/mb/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
