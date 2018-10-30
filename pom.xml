@@ -21,7 +21,7 @@
 			<url>http://localhost:8081/nexus/content/repositories/ARTECH/</url>
 		</repository>
 		<snapshotRepository>
-			<id>luckysnap</id>
+			<id>luckysnaps</id>
 			<url>http://localhost:8081/nexus/content/repositories/mb/</url>
 		</snapshotRepository>		
   </distributionManagement>
